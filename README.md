@@ -1,2 +1,3 @@
 # language_detection_model
-A machine learning-based language detection model developed as part of an academic microproject. It classifies text into different languages using natural language processing and supervised learning algorithms.
+This is a machine learning-based Language Identification System developed as part of an academic microproject. It uses character-level n-grams and a Logistic Regression classifier to accurately detect the language of given text samples. The model is trained on a custom multilingual dataset.
+
